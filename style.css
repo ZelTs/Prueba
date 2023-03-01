@@ -1,0 +1,13 @@
+.background__img-uno{
+    background-image: url(./assets/zelts.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50px;
+}
+
+.background__img-dos{
+    background-image: url(./assets/img/zelts.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50px;
+}
